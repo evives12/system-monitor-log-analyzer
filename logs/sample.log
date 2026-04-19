@@ -1,0 +1,6 @@
+INFO: System started successfully
+INFO: Running scheduled task
+WARNING: Memory usage is high
+ERROR: Failed to connect to database
+INFO: Retrying connection
+ERROR: Timeout occurred while processing request
