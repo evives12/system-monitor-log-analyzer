@@ -14,20 +14,21 @@ A Python-based tool that collects real-time system metrics, analyzes log files, 
 - psutil
 
 ## Project Structure
+```
 system-monitor-log-analyzer/
-├── .venv/
 ├── src/
-│   ├── main.py
-│   ├── metrics_collector.py
-│   ├── log_analyzer.py
-│   ├── report_generator.py
-│   └── utils.py
+│ ├── main.py
+│ ├── metrics_collector.py
+│ ├── log_analyzer.py
+│ ├── report_generator.py
+│ └── utils.py
 ├── logs/
-│   └── sample.log
+│ └── sample.log
 ├── reports/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ## How to Run
 1. Install dependencies:
